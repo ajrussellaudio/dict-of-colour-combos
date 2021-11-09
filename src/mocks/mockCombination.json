@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "colours": [
+    {
+      "name": {
+        "en": "English Red",
+        "ja": {
+          "kanji": "",
+          "hiragana": "かばいろ"
+        }
+      },
+      "cmyk": {
+        "c": 13,
+        "m": 73,
+        "y": 100,
+        "k": 0
+      }
+    },
+    {
+      "name": {
+        "en": "Cerulian Blue",
+        "ja": {
+          "kanji": "",
+          "hiragana": "はなあさぎ"
+        }
+      },
+      "cmyk": {
+        "c": 84,
+        "m": 26,
+        "y": 32,
+        "k": 0
+      }
+    }
+  ]
+}
