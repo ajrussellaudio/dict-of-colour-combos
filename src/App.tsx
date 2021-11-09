@@ -1,12 +1,12 @@
 import { QueryClient, QueryClientProvider } from 'react-query';
-import { Combination } from './components/Combination';
+import { CombinationList } from './components/CombinationList';
 
 function App() {
   const queryClient = new QueryClient();
 
   return (
     <QueryClientProvider client={queryClient}>
-      <Combination />
+      <CombinationList />
     </QueryClientProvider>
   );
 }

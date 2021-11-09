@@ -1,1 +1,1 @@
-export { WithQuery as Combination } from './WithQuery';
+export { Combination } from './Combination';

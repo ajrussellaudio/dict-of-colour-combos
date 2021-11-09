@@ -5,7 +5,7 @@ export const Container = styled.article`
   display: flex;
   width: 100%;
   max-width: 50rem;
-  margin: 1rem auto;
+  margin: 1rem auto 3rem;
 `;
 
 export const Id = styled.aside`

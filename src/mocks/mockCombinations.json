@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "colours": [
+      {
+        "name": {
+          "en": "English Red",
+          "ja": {
+            "kanji": "樺色",
+            "hiragana": "かばいろ"
+          }
+        },
+        "cmyk": {
+          "c": 13,
+          "m": 73,
+          "y": 100,
+          "k": 0
+        }
+      },
+      {
+        "name": {
+          "en": "Cerulian Blue",
+          "ja": {
+            "kanji": "花浅葱",
+            "hiragana": "はなあさぎ"
+          }
+        },
+        "cmyk": {
+          "c": 84,
+          "m": 26,
+          "y": 32,
+          "k": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "colours": [
+      {
+        "name": {
+          "en": "Dark Tyrian Blue",
+          "ja": {
+            "kanji": "樺色",
+            "hiragana": "こきはなだ"
+          }
+        },
+        "cmyk": {
+          "c": 90,
+          "m": 66,
+          "y": 36,
+          "k": 50
+        }
+      },
+      {
+        "name": {
+          "en": "Yellow Orange",
+          "ja": {
+            "kanji": "花浅葱",
+            "hiragana": "こうじいろ"
+          }
+        },
+        "cmyk": {
+          "c": 0,
+          "m": 45,
+          "y": 100,
+          "k": 0
+        }
+      }
+    ]
+  }
+]
