@@ -6,7 +6,7 @@ type Colour = {
       hiragana: string;
     };
   };
-  colour: {
+  cmyk: {
     c: number;
     m: number;
     y: number;
